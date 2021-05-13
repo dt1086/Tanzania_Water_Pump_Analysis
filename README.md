@@ -35,7 +35,7 @@ Our dataset contains well function statuses as well as numerous different factor
 
 ## Methods
 
-We mainly observed the distributions of sales prices, grades and conditions and explored their relationships to one another. We also utitilzied two sample T-Tests in order to determine whether different groups were statistically significant from one another and whether the significance was large enough to justify the renovation.
+After cleaning the data, we ran the data through several different models (KNN, Logistic Regression, Decision Tree, and Random Forest) and optimized each model to see which one gave us optimal results for predicting each class.
 
 ## Result 1
 
