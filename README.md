@@ -1,4 +1,4 @@
-# Tanzania_Water_Pump_Analysis
+# Tanzania Water Pump Analysis
 
 **Authors**: David Tian, Christopher de la Cruz
 
@@ -12,13 +12,26 @@ We are a Tarzanian government agency. Using data from Taarifa and the Tanzanian 
 
 ## Data
 
-Our dataset contains house sale prices for King County. It includes homes sold and the characteristics of those homes. For the sake of our grade & condition regression model, we limited our houses specifically to Seattle and specifically looked closely at:
+Our dataset contains well function statuses as well as numerous different factors about the well such as its age and gps height. There are the predictors we elected that our model uses:
 
-- Price<br>
-- Grade<br>
-- Condition<br>
-
-We do also include further columns when modeling what homes might sell for in general in Seattle as well as a a very general model of what a home might sell for even outside of Seattle
+- GPS Height = Altitude of the well<br>
+- Population = Population around the well<br>
+- Construction Year = Year of construction of the well<br>
+- Basin = Geographic water basin<br>
+- Region Code = Geographic location (coded)<br>
+- District Code = Geographic location (coded)<br>
+- LGA = Geographic location<br>
+- Public Meeting = True/False<br>
+- Scheme Management = Who operates the waterpoint<br>
+- Permit = If the waterpoint is permitted<br>
+- Extraction Type = The kind of extraction the waterpoint uses<br>
+- Management = How the waterpoint is managed<br>
+- Payment Type = What the water costs<br>
+- Water Quality = The quality of the water<br>
+- Quantity = The quantity of water<br>
+- Source = The source of the water<br>
+- Waterpoint Type = The kind of waterpoint<br>
+- Geographical Split = Which quadrant is the well located in<br>
 
 ## Methods
 
