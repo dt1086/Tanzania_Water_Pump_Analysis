@@ -64,7 +64,7 @@ For any additional questions, please contact **Christopher de la Cruz at cdelacr
 ```
 ├── README.md                                         <- The top-level README for reviewers of this project
 ├── Phase2 Project.pdf                                <- PDF version of project presentation
-├── Real Estate Recommendations Analysis.ipynb        <- Narrative documentation of analysis in Jupyter notebook 
+├── Tarzania Water Pump Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook 
 ├── data                                              <- Both sourced externally and generated from code     
 └── images                                            <- Both sourced externally and generated from code
 ```
