@@ -39,12 +39,15 @@ After cleaning the data, we ran the data through several different models (KNN, 
 
 ## Result 1
 
-Our model shows that not all renovations generate enough savings to necessarily be worth the price and labor (we showcase the relationships in our conclusion). Here are the results of our grade & condition model.
+Our model showed that the top predictors for the Random Forest (our best model) was gps_height, population, construction year, and well age. We also deemed it worth noting that the top predictors in the Logistic Regression model are quantity type and waterpoint type (which data visualization seems to confirm the importance of these predictors as well).
 
 ### Visual 1
 
-![gradeconmodel](https://user-images.githubusercontent.com/77891283/115739327-d375db80-a35b-11eb-9add-fbe1051d8b0d.png)
+![scatter_long](https://user-images.githubusercontent.com/77891283/118209480-b1411c00-b436-11eb-8f0a-c2117a37038b.png)
 
+### Visual 2
+
+![status_histo](https://user-images.githubusercontent.com/77891283/118209530-c5851900-b436-11eb-916c-0d38d0692ffd.png)
 
 ## Conclusions
 
