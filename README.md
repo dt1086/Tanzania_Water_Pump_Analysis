@@ -55,7 +55,7 @@ With an approximately 79% accuracy rate, our optimized random forest model is ab
 
 ## For More Information
 
-Please review our full analysis in our Jupyter Notebook or our presentation: https://docs.google.com/presentation/d/1SX5UJGmCgV2di-Wo5SZsfECan8wcSG7Y7HiPm24aCQs/edit#slide=id.gd0341dc497_0_842
+Please review our full analysis in our Jupyter Notebook or our presentation: https://docs.google.com/presentation/d/1QLSa4tuGmufa3u6_F0FBrVtt0bfCAhx4fqE_9XDdIdU/edit?usp=sharing
 
 For any additional questions, please contact **Christopher de la Cruz at cdelacruz2013@gmail.com, David Tian at dt1086@stern.nyu.edu**
 
