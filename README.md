@@ -66,5 +66,5 @@ For any additional questions, please contact **Christopher de la Cruz at cdelacr
 ├── Phase2 Project.pdf                                <- PDF version of project presentation
 ├── Tarzania Water Pump Analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook 
 ├── data                                              <- Both sourced externally and generated from code     
-└── images                                            <- Both sourced externally and generated from code
+└── img                                               <- Both sourced externally and generated from code
 ```
