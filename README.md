@@ -4,7 +4,7 @@
 
 ## Overview
 
-Our analysis currently reflects all the factors that play a role into predicting whether a well in Tarzania is function, in need or repair, or non-functional. We take a closer look at some of the heavier weighted predictors to give us a glimpse into what affects a well's functional status. ADD CONCLUSION HERE. This data can be used by any Tarzanian government organization or non-profit in Tarzania looking to make decisions basen on well status.
+Our analysis currently reflects all the factors that play a role into predicting whether a well in Tarzania is function, in need or repair, or non-functional. We take a closer look at some of the heavier weighted predictors to give us a glimpse into what affects a well's functional status. We find that some of the strongest predictors include but are not limited to the age of the well, the year that it was constructed, the quantity of water that it is pulling, and the waterpoint type. This data can be used by any Tarzanian government organization or non-profit in Tarzania looking to make decisions basen on well status.
 
 ## Business Problem
 
