@@ -51,23 +51,7 @@ Our model showed that the top predictors for the Random Forest (our best model) 
 
 ## Conclusions
 
-These are our business recommendations regarding renovations done to a house before selling it on the market:
-
-Our analysis shows that square footage of the living space is strongly correlated with the price of a house. While we realize that increasing an already-built house's footage may not always be realistic, we've discovered that there is statistical differences in the price of homes depending on it's Grade or Condition rating.
-
-For Grade, we're 95% confident of the following: <br>
-- Upgrading homes with a grade of 6 to a 7 can generate a 53K - 77K savings amount.
-- Upgrading homes with a grade of 7 to an 8 can generate a 52K - 78K savings amount.
-- Upgrading homes with a grade of 8 to a 9 can generate a 38K - 65K savings amount.
-
-For Condition, we're 95% confident of the following: <br>
-- Upgrading homes with a condition of 2 to a 3 can generate a 41K - 55K savings amount.
-- Upgrading homes with a condition of 2 to a 4 can generate a 57K - 71K savings amount.
-- Upgrading homes with a condition of 2 to a 5 can generate a 75K - 90K savings amount.
-- Upgrading homes with a condition of 3 to a 4 can generate a 8K - 23K savings amount.
-- Upgrading homes with a condition of 3 to a 5 can generate a 27K - 42K savings amount.
-- Upgrading homes with a condition of 4 to a 5 can generate a 11K - 26K savings amount.
-
+With an approximately 79% accuracy rate, our optimized random forest model is able to point out some very important predictors for determining a well's status. That being said, the topic of well status in Tarzania likely requires more data and research in order to build models able to make more accurate predictions along all three classes.
 
 ## For More Information
 
